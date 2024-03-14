@@ -1,0 +1,13 @@
+{
+  "name": "get-blockchain-holder-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://realbewhy@github.com/rileymtt/get-blockchain-holder-list.git",
+  "author": "Riley. <realbewhy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "ethers": "5.7.2",
+    "moment": "^2.30.1"
+  }
+}
